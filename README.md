@@ -9,8 +9,9 @@
 - 🔭 I’m currently working on [ft_philosophers](https://github.com/ftTower/ft_philosophers/tree/main/3.1)  
   
 
-- 🌱 I’m currently C, C++, Makefile, shell bash  
-  
+- 🌱 my programming language : C, C++, Makefile, shell bash
+- 🎤 my language             : I speak French, English and a little German.  
+- 🎓 my development          : In my spare time, I'm discovering the magic of arduino, and trying to learn Spanish and Russian better. 
 
 <br/>  
 
