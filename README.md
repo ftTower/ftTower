@@ -28,7 +28,7 @@
 
 <br/>  
 
-[![<tauer>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
+[![tauer's 42 stats](https://badge.mediaplus.ma/darkblue/tauer)](https://github.com/ftTower/badge42)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&hide_border=true&layout=compact" align="center" /></div>  
