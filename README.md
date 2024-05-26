@@ -42,7 +42,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/thomaue" target="_blank">
+<a href="https://github.com/ftTower" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/thom_aue" target="_blank">
@@ -58,7 +58,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomaue&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -73,7 +73,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomaue&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ftTower&&style=flat-square" align="center" />
 </div>  
   
 
