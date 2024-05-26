@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Thomas, a full-time developer 👨‍💻 </div>  
+### <div align="center">I'm Thomas, a student developer at 42 Paris 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [ft_philosophers](https://github.com/ftTower/ft_philosophers/tree/main/3.1)  
