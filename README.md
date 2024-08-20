@@ -52,8 +52,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ftTower&&style=flat-square" align="center" />
