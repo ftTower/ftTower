@@ -3,7 +3,7 @@
 ### <div align="center">I'm Thomas, student developer at 42 Paris 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [ft_philosophers](https://github.com/ftTower/ft_philosophers/tree/main/3.1)  
+- 🔭 I’m currently working on [inception](https://github.com/ftTower/inception)  
   
 
 - 🌱 my programming language : C, C++, Makefile, shell bash
