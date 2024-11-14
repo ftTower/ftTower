@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Thomas, student developer at 42 Paris 👨‍💻 </div>  
@@ -15,6 +12,9 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gif" align="center" style="width: 100%" />
+</div>  
 
 </td><td valign="top" width="33%">
 
