@@ -3,7 +3,7 @@
 ### <div align="center">I'm Thomas, student developer at 42 Paris 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/yrigny/Transcendence)
+- 🔭 I’m currently working on [ft_transcendence](https://github.com/ftTower/ft_malcom)
   
 
 - 🌱 my programming language : C, C++, Makefile, shell bash
