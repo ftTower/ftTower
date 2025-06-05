@@ -57,7 +57,7 @@
 </div>  
 
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4805608.png)](https://tryhackme.com/p/4805608)
+<img src="https://tryhackme-badges.s3.amazonaws.com/auer.winum.thomas.png" alt="Your Image Badge" />
 
 <br/>  
 
