@@ -58,11 +58,7 @@
 
 
 
-<div align="center">
-<br/>
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4805608" alt="TryHackMe Badge" style="margin-bottom: 5px;" />
-</div>
-</div>
+
 
 
 <br/>  
