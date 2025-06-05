@@ -57,7 +57,11 @@
 </div>  
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/auer.winum.thomas.png" alt="Your Image Badge" />
+
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/auer.winum.thomas.png" alt="TryHackMe Badge" style="margin-bottom: 5px;" />
+</div>
+
 
 <br/>  
 
