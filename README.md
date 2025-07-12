@@ -46,11 +46,10 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/auer.winum.thomas.png)](https://tryhackme.com/p/auer.winum.thomas)
 </div>  
 
 <br/>  
-
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ftTower&&style=flat-square" align="center" />
@@ -62,8 +61,6 @@
 
 
 <br/>  
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4805608" style='border:none;'></iframe>
 
 
 <br />
