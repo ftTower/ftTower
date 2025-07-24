@@ -3,10 +3,10 @@
 ### <div align="center">I'm Thomas, student developer at 42 Paris 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Piscine-Cybersecurity](https://github.com/ftTower/Piscine-Cybersecurity)
+- 🔭 I’m currently working on [Lib-asm]([https://github.com/ftTower/Piscine-Cybersecurity](https://github.com/ftTower/Lib-asm))
   
 
-- 🌱 my programming language : C, C++, Makefile, shell bash
+- 🌱 my programming language : C, C++, Python, Makefile, shell bash
 - 🎤 my language             : I speak French, English and a little German.  
 - 🎓 my development          : In my spare time, I'm discovering the magic of arduino, and trying to learn Spanish and Russian better. 
 
@@ -46,7 +46,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/auer.winum.thomas.png)](https://tryhackme.com/p/auer.winum.thomas)
 </div>  
 
 <br/>  
