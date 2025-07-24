@@ -3,7 +3,7 @@
 ### <div align="center">I'm Thomas, student developer at 42 Paris 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Lib-asm]((https://github.com/ftTower/Lib-asm))
+- 🔭 I’m currently working on [Lib-asm](https://github.com/ftTower/Lib-asm)
   
 
 - 🌱 my programming language : C, C++, Python, Makefile, shell bash
