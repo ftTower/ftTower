@@ -2,11 +2,12 @@
 
 ### <div align="center">I'm Thomas, Cybersecurity student at 42 Paris 👨‍💻 </div>  
   
+- 🔭 I’m currently working on [Lib-asm](https://github.com/ftTower/Lib-asm)
+
 <div align="center">
 <img src="https://github.com/ftTower/ftTower/blob/main/assets/ftTower/background.gif" align="center" style="width: 100%" />
 </div> 
 
-- 🔭 I’m currently working on [Lib-asm](https://github.com/ftTower/Lib-asm)
   
 ## ⚙️ Skills & Technologies 
 
