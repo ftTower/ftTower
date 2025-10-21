@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ECCA3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas+Auer;Cybersecurity+Enthusiast+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Ethical+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ECCA3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas+Auer;Cybersecurity+Engineer+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Ethical+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,23 +23,6 @@
 <p align="center">
   <em>Junior Cybersecurity Engineer passionate about securing systems and ethical hacking</em>
 </p>
-
-<div align="center">
-
-```python
-class CyberSecurityEngineer:
-    def __init__(self):
-        self.name = "Thomas Auer"
-        self.role = "Cybersecurity Enthusiast"
-        self.education = "42 Paris"
-        self.interests = ["Security", "Penetration Testing", "Network Defense"]
-        self.current_focus = "Learning advanced exploitation techniques"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's secure the digital world together 🔐")
-```
-
-</div>
 
 <br/>
 
