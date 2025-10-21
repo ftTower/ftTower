@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/ftTower/ftTower/blob/main/assets/ftTower/background.gif" align="center" style="width: 100%" />
-</div>
 
 <br/>
 
