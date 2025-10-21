@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=Thomas%20Auer&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" align="center" style="width: 100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a52,50:2d5f5d,100:1a3a52&height=180&section=header&text=Thomas%20Auer&fontSize=50&fontColor=4ecca3&animation=twinkling&fontAlignY=35" align="center" style="width: 100%" />
 </div> 
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=200&section=header&text=Cybersecurity%20Enthusiast&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Securing%20Systems%20•%2042%20Paris%20Student%20•%20Ethical%20Hacker&descSize=18&descAlignY=60" align="center" style="width: 100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a52,50:2d5f5d,100:1a3a52&height=200&section=header&text=Cybersecurity%20Enthusiast&fontSize=40&fontColor=4ecca3&fontAlign=50&fontAlignY=40&desc=Securing%20Systems%20•%2042%20Paris%20Student%20•%20Ethical%20Hacker&descSize=18&descAlignY=60" align="center" style="width: 100%" />
 </div>
   
 
@@ -53,7 +53,7 @@
 <h2 align="center">📊 Github Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=1a3a52&title_color=4ecca3&text_color=ffffff&langs_count=8" height="200" />
 </div>  
   
 
@@ -88,7 +88,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" style="width: 100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a52,50:2d5f5d,100:1a3a52&height=120&section=footer" style="width: 100%" />
 </div>
 
 
