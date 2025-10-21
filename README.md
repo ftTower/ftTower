@@ -1,43 +1,74 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a52,50:2d5f5d,100:1a3a52&height=180&section=header&text=Thomas%20Auer&fontSize=50&fontColor=4ecca3&animation=twinkling&fontAlignY=35" align="center" style="width: 100%" />
-</div> 
-
-<div align="center">
 <img src="https://github.com/ftTower/ftTower/blob/main/assets/ftTower/background.gif" align="center" style="width: 100%" />
 </div>
 
+<br/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ECCA3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas+Auer;Cybersecurity+Enthusiast+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Ethical+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-4ecca3?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student-42_Paris-4ecca3?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning-4ecca3?style=for-the-badge" />
+</p>
+
+<br/>
+
+---
+
+<h2 align="center">🛡️ About Me</h2>
+
+<p align="center">
+  <em>Junior Cybersecurity Engineer passionate about securing systems and ethical hacking</em>
+</p>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a52,50:2d5f5d,100:1a3a52&height=200&section=header&text=Cybersecurity%20Enthusiast&fontSize=40&fontColor=4ecca3&fontAlign=50&fontAlignY=40&desc=Securing%20Systems%20•%2042%20Paris%20Student%20•%20Ethical%20Hacker&descSize=18&descAlignY=60" align="center" style="width: 100%" />
+
+```python
+class CyberSecurityEngineer:
+    def __init__(self):
+        self.name = "Thomas Auer"
+        self.role = "Cybersecurity Enthusiast"
+        self.education = "42 Paris"
+        self.interests = ["Security", "Penetration Testing", "Network Defense"]
+        self.current_focus = "Learning advanced exploitation techniques"
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's secure the digital world together 🔐")
+```
+
 </div>
-  
 
+<br/>
 
+---
 
-  
-<h2 align="center">⚙️ Skills & Technologies</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-<table style="margin: 0 auto; border: none;">
+<table style="border: none;">
   <tr>
-    <td align="center" width="120" style="padding: 15px; border: none;">
-        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
-      <br>C
+    <td align="center" width="140" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" width="80" height="80" />
+      <br/><strong>C</strong>
     </td>
-    <td align="center" width="120" style="padding: 15px; border: none;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+    <td align="center" width="140" style="border: none;">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="80" height="80" />
+      <br/><strong>C++</strong>
     </td>
-    <td align="center" width="120" style="padding: 15px; border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
+    <td align="center" width="140" style="border: none;">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+      <br/><strong>Python</strong>
     </td>
-    <td align="center" width="120" style="padding: 15px; border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+    <td align="center" width="140" style="border: none;">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+      <br/><strong>Docker</strong>
     </td>
-    <td align="center" width="120" style="padding: 15px; border: none;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
+    <td align="center" width="140" style="border: none;">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+      <br/><strong>GitHub</strong>
     </td>
   </tr>
 </table>
@@ -45,50 +76,42 @@
 
 <br/>
 
-<br/>  
+---
 
-
-
-
-<h2 align="center">📊 Github Stats</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=1a3a52&title_color=4ecca3&text_color=ffffff&langs_count=8" height="200" />
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&text_color=ffffff&icon_color=4ecca3&langs_count=8&border_radius=10" height="180" />
+</div>
 
-<br/>  
+<br/>
 
-<h2 align="center">Connect with me</h2>
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-<a href="https://github.com/ftTower" target="_blank" style="margin: 0 20px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="50" />
-</a>
-<a href="https://linkedin.com/in/thomas-auer" target="_blank" style="margin: 0 20px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-</a>
-<a href="https://tauer.dev" target="_blank" style="margin: 0 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Portfolio" height="50" width="50" />
-</a>
+  <a href="https://github.com/ftTower" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ftTower-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/thomas-auer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thomas_Auer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tauer.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-tauer.dev-4ecca3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-<span style="margin: 0 35px;">GitHub</span>
-<span style="margin: 0 25px;">LinkedIn</span>
-<span style="margin: 0 25px;">Portfolio</span>
-</p>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ftTower&style=for-the-badge&color=FF6B35" align="center" />
-</div>  
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a52,50:2d5f5d,100:1a3a52&height=120&section=footer" style="width: 100%" />
+  <img src="https://komarev.com/ghpvc/?username=ftTower&style=for-the-badge&color=4ecca3&label=Profile+Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </div>
 
 
