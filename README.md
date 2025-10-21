@@ -5,13 +5,13 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4ECCA3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas+Auer;Cybersecurity+Engineer+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Ethical+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas+Auer;Cybersecurity+Engineer+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Ethical+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-4ecca3?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Student-42_Paris-4ecca3?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning-4ecca3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-6c757d?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student-42_Paris-6c757d?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning-6c757d?style=for-the-badge" />
 </p>
 
 <br/>
@@ -64,7 +64,7 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4ecca3&text_color=ffffff&icon_color=4ecca3&langs_count=8&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=8&border_radius=10" height="180" />
 </div>
 
 <br/>
@@ -77,18 +77,18 @@
   <a href="https://github.com/ftTower" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ftTower-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/thomas-auer" target="_blank">
+  <a href="https://linkedin.com/in/thomas-auer-winum" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Thomas_Auer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tauer.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-tauer.dev-4ecca3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-tauer.dev-6c757d?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ftTower&style=for-the-badge&color=4ecca3&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=ftTower&style=for-the-badge&color=6c757d&label=Profile+Views" />
 </div>
 
 <br/>
