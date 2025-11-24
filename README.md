@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas;Cybersecurity+Engineer+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Software Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-![Banner]()
+![Banner](https://github.com/ftTower/ftTower/blob/main/assets/ftTower/Thomas_auer_banner.png)
 
 <h2 align="center">💻 Tech Stack</h2>
 
