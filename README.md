@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,9,20&height=200&section=header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C8B6E2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;SOC+Analyst+%7C+Developer;Cybersecurity+Student" alt="Typing SVG" />
 </div>
 
 <br/>
