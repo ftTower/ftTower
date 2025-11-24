@@ -108,7 +108,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d1b4e&height=100&section=footer" />
 </div>
 
 
