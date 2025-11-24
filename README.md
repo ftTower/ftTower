@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,9,20&height=200&section=header" />
+</div>
+
 <br/>
 
 ![banner](https://github.com/ftTower/ftTower/blob/main/assets/ftTower/Thomas_Auer_banner.png)
@@ -36,6 +40,39 @@
 
 ---
 
+<h2 align="center">🔒 Cybersecurity Tools</h2>
+
+<div align="center">
+<table style="border: none;">
+  <tr>
+    <td align="center" width="140" style="border: none;">
+      <img src="https://img.icons8.com/color/96/000000/nmap.png" alt="Nmap" width="80" height="80" />
+      <br/><strong>Nmap</strong>
+    </td>
+    <td align="center" width="140" style="border: none;">
+      <img src="https://img.icons8.com/color/96/000000/metasploit.png" alt="Metasploit" width="80" height="80" />
+      <br/><strong>Metasploit</strong>
+    </td>
+    <td align="center" width="140" style="border: none;">
+      <img src="https://img.icons8.com/color/96/000000/elasticsearch.png" alt="Elastic Stack" width="80" height="80" />
+      <br/><strong>Elastic Stack</strong>
+    </td>
+    <td align="center" width="140" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="80" height="80" />
+      <br/><strong>Linux</strong>
+    </td>
+    <td align="center" width="140" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="80" height="80" />
+      <br/><strong>Windows</strong>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
@@ -48,14 +85,19 @@
 
 <h2 align="center">🤝 Connect With Me</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/thomas-auer-winum" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Thomas_Auer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tauer.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-tauer.dev-6c757d?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/96/000000/domain.png" alt="Portfolio" width="60" height="60" />
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:auer.winum.thomas@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/000000/email.png" alt="Email" width="60" height="60" />
+  </a>
+</div>
 
 <br/>
 
@@ -66,7 +108,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20&height=100&section=footer" />
 </div>
 
 
