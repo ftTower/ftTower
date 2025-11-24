@@ -2,28 +2,10 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas+Auer;Cybersecurity+Engineer+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Ethical+Hacker+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Thomas;Cybersecurity+Engineer+%F0%9F%94%90;42+Paris+Student+%F0%9F%8E%93;Software Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-6c757d?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Student-42_Paris-6c757d?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning-6c757d?style=for-the-badge" />
-</p>
-
-<br/>
-
----
-
-<h2 align="center">🛡️ About Me</h2>
-
-<p align="center">
-  <em>Junior Cybersecurity Engineer passionate about securing systems and ethical hacking</em>
-</p>
-
-<br/>
-
----
+![Banner]()
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -71,9 +53,6 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/ftTower" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ftTower-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/thomas-auer-winum" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Thomas_Auer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
