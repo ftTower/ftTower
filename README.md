@@ -76,9 +76,9 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=6&border_radius=10" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=6" height="200" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ftTower&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&border_radius=10&hide=stars,issues,prs&show=reviews,prs_merged,prs_merged_percentage" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ftTower&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&hide=stars,issues" height="200" />
 </div>
 
 <br/>
