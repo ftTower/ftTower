@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C8B6E2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Developer;Cybersecurity+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Developer;Cybersecurity+Student" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -76,7 +76,9 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=8&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=6&border_radius=10" height="200" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftTower&theme=dark&hide_border=true&background=0d1117&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&border_radius=10" height="200" />
 </div>
 
 <br/>
@@ -104,11 +106,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ftTower&style=for-the-badge&color=6c757d&label=Profile+Views" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d1b4e&height=100&section=footer" />
-</div>
-
 
