@@ -5,7 +5,7 @@
 
 <br/>
 
-![banner](https://github.com/ftTower/ftTower/blob/main/assets/ftTower/Thomas_Auer_banner.png)
+![banner](https://github.com/ftTower/ftTower/blob/main/assets/ftTower/banner_en.png)
 
 <h2 align="center">💻 Tech Stack</h2>
 
