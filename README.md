@@ -77,8 +77,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=6&border_radius=10" height="200" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftTower&theme=dark&hide_border=true&background=0d1117&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&border_radius=10" height="200" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ftTower&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&border_radius=10&hide=stars,issues,prs&show=reviews,prs_merged,prs_merged_percentage" height="200" />
 </div>
 
 <br/>
