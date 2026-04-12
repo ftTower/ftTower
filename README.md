@@ -42,7 +42,7 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=6" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ftTower&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b949e&text_color=c9d1d9&icon_color=8b949e&langs_count=6" alt="Top Languages" width="350" />
 </div>
 
 <br/>
