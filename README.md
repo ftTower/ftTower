@@ -1,11 +1,4 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Developer;Cybersecurity+Student" alt="Typing SVG" />
-</div>
-
 <br/>
-
-![banner](https://github.com/ftTower/ftTower/blob/main/assets/ftTower/banner_en.png)
 
 <h2 align="center">💻 Tech Stack</h2>
 
