@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi there, I'm Thomas 👋</h1>
   <h3>Web Pentester x Systems Developer</h3>
   <p>Leveraging a strong programming background to break and secure web applications.<br>Currently focused on <b>Web Pentesting</b>, with a strong ambition to transition into <b>Network</b> & <b>IoT Pentesting</b> in the future.</p>
 </div>
