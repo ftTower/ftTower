@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/ftTower/computer.gif" alt="Computer GIF" width="420" />
+  <img src="assets/ftTower/background.gif" alt="Banner" width="100%" />
 </div>
 
 <br/>
@@ -54,11 +54,12 @@
 
 <h2 align="center">🤝 Connect With Me</h2>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://tauer.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-tauer.dev-090909?style=for-the-badge&logoColor=white&labelColor=1c1c1c" alt="Portfolio" />
   </a>
-</div>
+</div> -->
+
 <br/>
 
 <div align="center">
