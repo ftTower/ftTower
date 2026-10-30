@@ -3,10 +3,6 @@
   <p>Leveraging a strong programming background to break and secure web applications.<br>Currently focused on <b>Web Pentesting</b>, with a strong ambition to transition into <b>Network</b> & <b>IoT Pentesting</b> in the future.</p>
 </div>
 
-<div align="center">
-  <img src="assets/ftTower/background.gif" alt="Banner" />
-</div>
-
 <br/>
 
 <h2 align="center">💻 Tech Stack</h2>
